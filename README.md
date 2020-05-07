@@ -1,9 +1,9 @@
 <p align="center">
-    <img alt="Git Explorer" src="./src/assets/header-git.png"/>
+    <img alt="Git Explorer" src="https://github.com/IgorThierry/github-explorer/blob/master/src/assets/header-git.png"/>
 </p>
 
 <h1 align="center">
-	Desafio React Native
+	GoMarketplace
 </h1>
 
 <p align="center">Nesse desafio, foi desenvolvido uma nova aplicação, a GoMarketplace</p>
@@ -20,12 +20,19 @@
   </a>
 </p>
 
+<div align="center">
+  <img alt="GoMarketplace" src="./src/assets/Listagem.png" height="300"/>
+   <img alt="GoMarketplace" src="./src/assets/Carrinho.png" height="300"/>
+</div>
+
 ## 🚀 Projeto
 
-A aplicação consiste em um App feito em React Native.
+A aplicação consiste em um Marketplace feito em React Native.
 
 ## 🔧 Tecnologias
 
+- TypeScript
+- Context API
 - Yarn;
 - React Native
 - ESLint + Prettier + EditorConfig;
